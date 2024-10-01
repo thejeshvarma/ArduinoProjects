@@ -1,4 +1,4 @@
-# Arduino Servo Motor Control Project
+# Arduino Servo Motor Control with Potentiometer Project
 
 This Arduino project demonstrates how to control a servo motor using a potentiometer. The position of the potentiometer is read as an analog input and mapped to the corresponding angle for the servo motor.
 
