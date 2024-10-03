@@ -38,7 +38,7 @@ void loop() {
     myservo.write(pos);      // Set the servo position
     delay(15);               // Delay to allow the servo to reach the position
   }
-
+//You can increse the  delay to decrese the sweep speed of the servo
   // Sweep from 180 back to 0 degrees
   for(pos = 180; pos >= 0; pos--) {
     myservo.write(pos);      // Set the servo position
