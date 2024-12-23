@@ -3,6 +3,10 @@
 This Arduino project combines an ultrasonic distance sensor, an LCD display, a servo motor, and a buzzer. The system measures the distance of an object using an ultrasonic sensor, displays the measured distance on an LCD screen, and moves a servo motor back and forth continuously.
 
 ---
+# **CONNECTIONS IMAGE**
+![image](https://github.com/user-attachments/assets/d1397d7b-3d23-477e-bb1d-efb81829e875)
+
+---
 
 ## **Components Required**
 1. Arduino Board
